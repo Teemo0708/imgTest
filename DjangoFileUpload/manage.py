@@ -23,3 +23,5 @@ if __name__ == '__main__':
     main()
 
     # https://www.delftstack.com/ko/howto/django/django-upload-file-or-image/  원글 링크
+
+
