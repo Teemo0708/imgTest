@@ -6,6 +6,7 @@ from django.shortcuts import render
 
 def uploadFile(request):
     if request.method == "POST":
+
         # Fetching the form data
         fileTitle = request.POST["fileTitle"]
         uploadedFile = request.FILES["uploadedFile"]
